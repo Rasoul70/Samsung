@@ -1616,23 +1616,28 @@ text-align: center;
     background-image: url(./image/part8/1.webp);
     background-size: 100%;
     background-position: bottom;
+    background-repeat: no-repeat;
 }
 .pic7_2{
     background-image: url(./image/part8/2.webp);
     background-size: 100%;
     background-position: bottom;
+    background-repeat: no-repeat;
 }.pic7_3{
     background-image: url(./image/part8/3.webp);
     background-size: 100%;
     background-position: bottom;
+    background-repeat: no-repeat;
 }.pic7_4{
     background-image: url(./image/part8/4.webp);
     background-size: 100%;
     background-position: bottom;
+    background-repeat: no-repeat;
 }.pic7_5{
     background-image: url(./image/part8/5.webp);
     background-size: 100%;
     background-position: bottom;
+    background-repeat: no-repeat;
 }
 .pic_part7:hover{
     background-size: 105%;
